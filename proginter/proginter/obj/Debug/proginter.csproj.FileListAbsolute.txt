@@ -1,0 +1,6 @@
+D:\inteer\proginter\proginter\bin\Debug\proginter.exe.config
+D:\inteer\proginter\proginter\bin\Debug\proginter.exe
+D:\inteer\proginter\proginter\bin\Debug\proginter.pdb
+D:\inteer\proginter\proginter\obj\Debug\proginter.csprojResolveAssemblyReference.cache
+D:\inteer\proginter\proginter\obj\Debug\proginter.exe
+D:\inteer\proginter\proginter\obj\Debug\proginter.pdb
